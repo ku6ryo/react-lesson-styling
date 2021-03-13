@@ -1,5 +1,8 @@
 import './App.css';
 
+/**
+ * この関数内に HTML を書くと表示されます。
+ */
 function App() {
   return (
     <div className="app">
