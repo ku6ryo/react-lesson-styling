@@ -1,1 +1,1 @@
-Simple App fro React lesson
+このアプリでは React 上での HTML / CSS を書く場所を学びます。
